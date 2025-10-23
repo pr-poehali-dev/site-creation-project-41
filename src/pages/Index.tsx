@@ -17,7 +17,7 @@ interface Property {
 const properties: Property[] = [
   {
     id: 1,
-    name: 'Складской комплекс А',
+    name: 'Сдача помещения',
     area: 5000,
     price: 5000,
     image: 'https://cdn.poehali.dev/files/782fc485-702a-46dd-a4d6-c19a337a833d.jpg',
@@ -25,7 +25,7 @@ const properties: Property[] = [
   },
   {
     id: 2,
-    name: 'Производственный цех',
+    name: 'Сдача помещения',
     area: 3000,
     price: 3500,
     image: 'https://cdn.poehali.dev/files/782fc485-702a-46dd-a4d6-c19a337a833d.jpg',
@@ -33,7 +33,7 @@ const properties: Property[] = [
   },
   {
     id: 3,
-    name: 'Логистический хаб',
+    name: 'Сдача помещения',
     area: 7500,
     price: 7000,
     image: 'https://cdn.poehali.dev/files/782fc485-702a-46dd-a4d6-c19a337a833d.jpg',
@@ -41,7 +41,7 @@ const properties: Property[] = [
   },
   {
     id: 4,
-    name: 'Складское помещение Б',
+    name: 'Сдача помещения',
     area: 2000,
     price: 2500,
     image: 'https://cdn.poehali.dev/files/782fc485-702a-46dd-a4d6-c19a337a833d.jpg',
@@ -49,7 +49,7 @@ const properties: Property[] = [
   },
   {
     id: 5,
-    name: 'Индустриальный парк',
+    name: 'Сдача помещения',
     area: 10000,
     price: 9500,
     image: 'https://cdn.poehali.dev/files/782fc485-702a-46dd-a4d6-c19a337a833d.jpg',
@@ -57,7 +57,7 @@ const properties: Property[] = [
   },
   {
     id: 6,
-    name: 'Терминал хранения',
+    name: 'Сдача помещения',
     area: 4000,
     price: 4200,
     image: 'https://cdn.poehali.dev/files/782fc485-702a-46dd-a4d6-c19a337a833d.jpg',
