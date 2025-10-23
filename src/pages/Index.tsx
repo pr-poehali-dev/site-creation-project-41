@@ -19,39 +19,39 @@ const properties: Property[] = [
     id: 1,
     name: 'Сдача помещения',
     area: 40,
-    price: 182000,
+    price: 32000,
     image: 'https://cdn.poehali.dev/files/782fc485-702a-46dd-a4d6-c19a337a833d.jpg',
     type: 'Склад'
   },
   {
     id: 2,
     name: 'Сдача помещения',
-    area: 3000,
-    price: 3500,
+    area: 65,
+    price: 52000,
     image: 'https://cdn.poehali.dev/files/782fc485-702a-46dd-a4d6-c19a337a833d.jpg',
     type: 'Производство'
   },
   {
     id: 3,
     name: 'Сдача помещения',
-    area: 7500,
-    price: 7000,
+    area: 40,
+    price: 32000,
     image: 'https://cdn.poehali.dev/files/782fc485-702a-46dd-a4d6-c19a337a833d.jpg',
     type: 'Логистика'
   },
   {
     id: 4,
     name: 'Сдача помещения',
-    area: 2000,
-    price: 2500,
+    area: 40,
+    price: 32000,
     image: 'https://cdn.poehali.dev/files/782fc485-702a-46dd-a4d6-c19a337a833d.jpg',
     type: 'Склад'
   },
   {
     id: 5,
     name: 'Сдача помещения',
-    area: 10000,
-    price: 9500,
+    area: 50,
+    price: 40000,
     image: 'https://cdn.poehali.dev/files/782fc485-702a-46dd-a4d6-c19a337a833d.jpg',
     type: 'Производство'
   },
