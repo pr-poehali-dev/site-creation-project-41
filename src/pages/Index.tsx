@@ -18,7 +18,7 @@ const properties: Property[] = [
   {
     id: 1,
     name: 'Сдача помещения',
-    area: 5000,
+    area: 40,
     price: 5000,
     image: 'https://cdn.poehali.dev/files/782fc485-702a-46dd-a4d6-c19a337a833d.jpg',
     type: 'Склад'
